@@ -1,6 +1,7 @@
 # Rocket Analysis
 
 MATLAB scripts for various Rocketry Calculations.
+All independently written by Joshua Kim.
 
 ## How to run
 1. Clone or download this repository.
